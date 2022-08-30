@@ -1,0 +1,41 @@
+body {
+  position: absolute;
+  background-color: #E9DAC1;
+  color: #283618;
+  min-height: 100%;
+  width: 100%;
+  padding-bottom: 5rem;
+  margin: 0;
+  font-family: 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar {
+  padding: 0 0 2rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+  font-weight: lighter;
+}
+
+.container {
+  padding: 20px;
+  border-radius: 1rem;
+}
